@@ -1,0 +1,33 @@
+{
+  "name": "Gravitas One",
+  "designer": "Riccardo De Franceschi",
+  "license": "OFL",
+  "visibility": "External",
+  "category": "Display",
+  "size": 19700,
+  "fonts": [
+    {
+      "name": "Gravitas One",
+      "style": "normal",
+      "weight": 400,
+      "filename": "GravitasOne-TTF.ttf",
+      "postScriptName": "GravitasOne",
+      "fullName": "Gravitas One",
+      "copyright": "Copyright (c) 2011, Sorkin Type Co (www.sorkintype.com)\nwith Reserved Font Name \"Gravitas\".\n\nThis Font Software is licensed under the SIL Open Font License,\nVersion 1.1. This license is available with a FAQ at:\nhttp://scripts.sil.org/OFL"
+    },
+    {
+      "name": "Gravitas One",
+      "style": "normal",
+      "weight": 400,
+      "filename": "GravitasOne-Regular.ttf",
+      "postScriptName": "GravitasOne",
+      "fullName": "Gravitas One",
+      "copyright": "Copyright (c) 2011, Sorkin Type Co (www.sorkintype.com)\nwith Reserved Font Name \"Gravitas\".\n\nThis Font Software is licensed under the SIL Open Font License,\nVersion 1.1. This license is available with a FAQ at:\nhttp://scripts.sil.org/OFL"
+    }
+  ],
+  "subsets": [
+    "latin",
+    "menu"
+  ],
+  "dateAdded": "2011-06-29"
+}
